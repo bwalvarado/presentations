@@ -2,8 +2,8 @@
 
 Source code for the presentation on using the requests module to view security headers and cookies using python.
 
-# Installation using pip3
-# pip3 install requests
+## Installation
+``pip3 install requests``
 
 
 * example.py - A simple example showing how to use requests
