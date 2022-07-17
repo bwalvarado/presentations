@@ -1,2 +1,7 @@
 # python-port-scanner
-A port scanner in python
+
+Threaded port scanner in python developed for a presentation.
+
+Usage:
+
+``python3 tportscanner scanme.nmap.org``
