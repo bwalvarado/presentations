@@ -8,6 +8,6 @@ Source code for port scanner presentation.
 * tportscanner.py - The final threaded port scanner build
 
 ## Usage
-``python3 sportscanner``
-``python3 portscanner scanme.nmap.org``
-``python3 tportscanner scanme.nmap.org``
+- ``python3 sportscanner``
+- ``python3 portscanner scanme.nmap.org``
+- ``python3 tportscanner scanme.nmap.org``

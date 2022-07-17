@@ -13,8 +13,8 @@ Source code for the presentation on using the requests module to view security h
 * final.py - Final project showing how to check for required security headers and check the content security policy for unsafe
 
 ## Usage
-``python3 example.py``
-``python3 headers.py``
-``python3 cookies.py``
-``python3 view-info https://www.github.com``
-``python3 final.py https://www.github.com``
+- ``python3 example.py``
+- ``python3 headers.py``
+- ``python3 cookies.py``
+- ``python3 view-info https://www.github.com``
+- ``python3 final.py https://www.github.com``
